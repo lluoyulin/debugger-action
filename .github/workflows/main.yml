@@ -1,4 +1,4 @@
-name: OpenWrt
+name: ssh_OpenWrt
 on: [push]
 jobs:
   Ubuntu:
